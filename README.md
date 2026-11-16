@@ -9,7 +9,7 @@
 * **ML:** TensorFlow Lite (`MobileNetV2`)
 
 ## Установка на Android
-1. Откройсе мой гугл диск (https://drive.google.com/file/d/18EK7SnXuVoHXsBp8z2HrHyFX0cbAK9UR/view?usp=sharing)
+1. Откройсе мой гугл диск [(https://drive.google.com/file/d/18EK7SnXuVoHXsBp8z2HrHyFX0cbAK9UR/view?usp=sharing)](https://drive.google.com/drive/folders/1P92rcgMKyAdHb3n5BZGtmKHluEY_-V_V?usp=sharing)
 2. Скачайте файл `app-release.apk`. 
 3. Установите APK на смартфон (при необходимости разрешите установку из неизвестных источников).
 4. Разрешите приложению доступ к камере при первом запуске.
@@ -34,7 +34,7 @@ thanks, Pif, for the animations
 * **ML:** TensorFlow Lite (`MobileNetV2`)
 
 ## Android Installation
-1. Open My Google Drive (https://drive.google.com/file/d/18EK7SnXuVoHXsBp8z2HrHyFX0cbAK9UR/view?usp=sharing)
+1. Open My Google Drive [(https://drive.google.com/file/d/18EK7SnXuVoHXsBp8z2HrHyFX0cbAK9UR/view?usp=sharing)](https://drive.google.com/drive/folders/1P92rcgMKyAdHb3n5BZGtmKHluEY_-V_V?usp=sharing)
 2. Download the 'app-release.apk' file.
 3. Install the APK on your smartphone (allow installation from unknown sources if necessary).
 4. Allow the app to access the camera on first launch.
